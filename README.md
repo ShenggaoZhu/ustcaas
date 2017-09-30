@@ -1,4 +1,4 @@
-# WordPress on OpenShift #
+# WordPress on OpenShift # 
 
 WordPress is an open source, semantic, blogging and content management 
 platform written in PHP with a MySQL backend focusing on aesthetics, web 
